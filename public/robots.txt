@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://maxiyommi.github.io/portfolio_insight/sitemap.xml
